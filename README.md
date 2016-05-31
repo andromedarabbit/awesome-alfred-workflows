@@ -19,33 +19,38 @@ A curated collection of awesome Alfred 3 workflows.
 * [Chrome Bookmarks](http://www.packal.org/workflow/chrome-bookmarks-0) makes you access to your Chrome bookmarks on your fingertips:
 
   > `,b`
-  > ![](http://www.packal.org/sites/default/files/public/workflow-files/comchromebookmarks/screenshots/screenshot_0.png)
+
+  > <img src="http://www.packal.org/sites/default/files/public/workflow-files/comchromebookmarks/screenshots/screenshot_0.png" width="300" />
 
 ## Finder
 
 * [Autojump](http://www.packal.org/workflow/autojump) is Finder version of [autojump](https://github.com/wting/autojump). With this you can navigate your filesystem and open the folder you want into Finder:
 
   > `j`
-  > ![](https://camo.githubusercontent.com/648a61589baf84ff2826ae31b201c82bfd3a5407/687474703a2f2f692e6779617a6f2e636f6d2f31663938353437383065366334316539656337356266373139373062376432632e676966)
+
+  > <img src="https://camo.githubusercontent.com/648a61589baf84ff2826ae31b201c82bfd3a5407/687474703a2f2f692e6779617a6f2e636f6d2f31663938353437383065366334316539656337356266373139373062376432632e676966" width="300" />
 
 ## Developer
 
 * [Secure SHell](http://www.packal.org/workflow/secure-shell) opens SSH/SFTP connections with autosuggestion of known hosts:
 
   > `ssh`
-  > ![](https://raw.githubusercontent.com/deanishe/alfred-ssh/master/demo.gif)
+  
+  > <img src="https://raw.githubusercontent.com/deanishe/alfred-ssh/master/demo.gif" width="300" />
 
 * [Show Vim Cheatsheet](http://www.packal.org/workflow/show-vim-cheatsheet) shows a cheatsheet for vim using quicklook. Simple and useful:
 
   > `vi`
-  > ![](http://www.packal.org/sites/default/files/public/workflow-files/comamosmanneschmidtshowvimcheatsheet/screenshots/screenshot2016-05-19at60154pm.png)
+
+  > <img src="http://www.packal.org/sites/default/files/public/workflow-files/comamosmanneschmidtshowvimcheatsheet/screenshots/screenshot2016-05-19at60154pm.png" width="300" />
 
 ## 한국어 사용자
 
 * [KoZip](http://www.packal.org/workflow/kozip)는 "도로명/지번 한영 주소 검색"을 하고 해당 주소를 지도에서 찾아볼 때 유용하다.
 
   > `kz`
-  > ![](https://github.com/kyungw00k/alfred-kozip-workflow/raw/master/screenshot/alfred-kozip-usage-cover.gif)
+
+  > <img src="https://github.com/kyungw00k/alfred-kozip-workflow/raw/master/screenshot/alfred-kozip-usage-cover.gif" width="300" />
 
 ## Best other sources
 
