@@ -44,6 +44,12 @@ A curated collection of awesome Alfred 3 workflows.
 
   > <img src="http://www.packal.org/sites/default/files/public/workflow-files/comamosmanneschmidtshowvimcheatsheet/screenshots/screenshot2016-05-19at60154pm.png" width="300" />
 
+* [Tunnelblick Toggle](http://www.packal.org/workflow/tunnelblick-toggle) checks and toggles the status of Tunnelblick connections:
+
+  > `vpn`
+
+  > <img src="http://www.packal.org/sites/default/files/public/workflow-files/comshau-kotealfredtunnelblick-toggle/screenshots/packal-demo.gif" width="300" />
+
 ## 한국어 사용자
 
 * [KoZip](http://www.packal.org/workflow/kozip)는 "도로명/지번 한영 주소 검색"을 하고 해당 주소를 지도에서 찾아볼 때 유용하다.
