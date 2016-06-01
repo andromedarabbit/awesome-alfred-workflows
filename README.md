@@ -34,6 +34,18 @@ This is being written by the guidelines from [awesome](https://github.com/sindre
 
 ## Development
 
+- [Gist](http://www.packal.org/workflow/gist) accesses [GitHub Gists](https://gist.github.com) as snippets. Supports tags, stars, and private gists:
+
+  > `gg`
+
+  > <img src="http://www.packal.org/sites/default/files/public/workflow-files/comdanielecookgist/screenshots/search.png" width="300" />
+
+- [Github repos](http://www.packal.org/workflow/github-repos) quickly open your github repositories:
+
+  > `gh`
+
+  > <img src="http://www.packal.org/sites/default/files/public/workflow-files/shedgaralfredgithubrepos/screenshots/zz4g4.png" width="300" />
+
 - [Secure SHell](http://www.packal.org/workflow/secure-shell) opens SSH/SFTP connections with autosuggestion of known hosts:
 
   > `ssh`
@@ -46,7 +58,7 @@ This is being written by the guidelines from [awesome](https://github.com/sindre
 
   > <img src="http://www.packal.org/sites/default/files/public/workflow-files/comamosmanneschmidtshowvimcheatsheet/screenshots/screenshot2016-05-19at60154pm.png" width="300" />
 
-* [Tunnelblick Toggle](http://www.packal.org/workflow/tunnelblick-toggle) checks and toggles the status of Tunnelblick connections:
+- [Tunnelblick Toggle](http://www.packal.org/workflow/tunnelblick-toggle) checks and toggles the status of Tunnelblick connections:
 
   > `vpn`
 
