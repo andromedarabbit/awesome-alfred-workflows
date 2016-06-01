@@ -24,6 +24,12 @@ This is being written by the guidelines from [awesome](https://github.com/sindre
 
   > <img src="http://www.packal.org/sites/default/files/public/workflow-files/comchromebookmarks/screenshots/screenshot_0.png" width="300" />
 
+- [Shorten URL](https://github.com/hzlzh/Alfred-Workflows) supports several URL shorteners, for instance, `goo.gl/`, `bit.ly/`, `t.cn/`, `git.io/` and more.
+
+  > `short`
+
+  > <img src="https://github.com/hzlzh/Alfred-Workflows/raw/master/Downloads/extra/Shorten-URL-trigger.png" width="300" />
+
 ## Finder
 
 - [Autojump](http://www.packal.org/workflow/autojump) is Finder version of [autojump](https://github.com/wting/autojump). With this you can navigate your filesystem and open the folder you want into Finder:
