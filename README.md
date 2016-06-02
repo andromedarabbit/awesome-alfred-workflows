@@ -1,6 +1,6 @@
 # Awesome Alfred Workflows [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated collection of awesome Alfred 3 workflows.
+A curated collection of awesome Alfred 3 workflows and snippets
 
 This is being written by the guidelines from [awesome](https://github.com/sindresorhus/awesome). However, there might be some misguided contents even with our best effort since we are new in this **Awesome** movement and still learning.
 
@@ -69,6 +69,13 @@ This is being written by the guidelines from [awesome](https://github.com/sindre
   > `vpn`
 
   > <img src="http://www.packal.org/sites/default/files/public/workflow-files/comshau-kotealfredtunnelblick-toggle/screenshots/packal-demo.gif" width="300" />
+
+## Fun
+
+- [The Alfred Emoji Pack](http://joelcalifa.com/blog/alfred-emoji-snippet-pack/) makes you enjoy Emojis on whatever apps you want. This snippet pack is especially designed for [Slack](https://slack.com/).
+
+  > <img src="http://joelcalifa.com/assets/images/blog/alfred-emoji-snippet-pack/emoji-alfred.gif" />
+
 
 ## 한국어 사용자
 
