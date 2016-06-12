@@ -22,13 +22,13 @@ This is being written by the guidelines from [awesome](https://github.com/sindre
 
   > `,b`
 
-  > <img src="http://www.packal.org/sites/default/files/public/workflow-files/comchromebookmarks/screenshots/screenshot_0.png" width="300" />
+  > <img src="http://www.packal.org/sites/default/files/public/workflow-files/comchromebookmarks/screenshots/screenshot_0.png" width="300px" />
 
 - [Shorten URL](https://github.com/hzlzh/Alfred-Workflows) supports several URL shorteners, for instance, `goo.gl/`, `bit.ly/`, `t.cn/`, `git.io/` and more.
 
   > `short`
 
-  > <img src="https://github.com/hzlzh/Alfred-Workflows/raw/master/Downloads/extra/Shorten-URL-trigger.png" width="300" />
+  > <img src="https://github.com/hzlzh/Alfred-Workflows/raw/master/Downloads/extra/Shorten-URL-trigger.png" width="300px" />
 
 ## Finder
 
@@ -36,7 +36,7 @@ This is being written by the guidelines from [awesome](https://github.com/sindre
 
   > `j`
 
-  > <img src="https://camo.githubusercontent.com/648a61589baf84ff2826ae31b201c82bfd3a5407/687474703a2f2f692e6779617a6f2e636f6d2f31663938353437383065366334316539656337356266373139373062376432632e676966" width="300" />
+  > <img src="https://camo.githubusercontent.com/648a61589baf84ff2826ae31b201c82bfd3a5407/687474703a2f2f692e6779617a6f2e636f6d2f31663938353437383065366334316539656337356266373139373062376432632e676966" width="300px" />
 
 ## Development
 
@@ -44,31 +44,36 @@ This is being written by the guidelines from [awesome](https://github.com/sindre
 
   > `gg`
 
-  > <img src="http://www.packal.org/sites/default/files/public/workflow-files/comdanielecookgist/screenshots/search.png" width="300" />
+  > <img src="http://www.packal.org/sites/default/files/public/workflow-files/comdanielecookgist/screenshots/search.png" width="300px" />
 
 - [Github repos](http://www.packal.org/workflow/github-repos) quickly open your github repositories:
 
   > `gh`
 
-  > <img src="http://www.packal.org/sites/default/files/public/workflow-files/shedgaralfredgithubrepos/screenshots/zz4g4.png" width="300" />
+  > <img src="http://www.packal.org/sites/default/files/public/workflow-files/shedgaralfredgithubrepos/screenshots/zz4g4.png" width="300px" />
 
 - [Secure SHell](http://www.packal.org/workflow/secure-shell) opens SSH/SFTP connections with autosuggestion of known hosts:
 
   > `ssh`
 
-  > <img src="https://raw.githubusercontent.com/deanishe/alfred-ssh/master/demo.gif" width="300" />
+  > <img src="https://raw.githubusercontent.com/deanishe/alfred-ssh/master/demo.gif" width="300px" />
 
 - [Show Vim Cheatsheet](http://www.packal.org/workflow/show-vim-cheatsheet) shows a cheatsheet for vim using quicklook. Simple and useful:
 
   > `vi`
 
-  > <img src="http://www.packal.org/sites/default/files/public/workflow-files/comamosmanneschmidtshowvimcheatsheet/screenshots/screenshot2016-05-19at60154pm.png" width="300" />
+  > <img src="http://www.packal.org/sites/default/files/public/workflow-files/comamosmanneschmidtshowvimcheatsheet/screenshots/screenshot2016-05-19at60154pm.png" width="300px" />
 
+- [What's My IP](http://www.packal.org/workflow/whats-my-ip) shows both of internal and external addresses of you Mac:
+
+  > `ip`
+
+  > <img src="http://www.packal.org/sites/default/files/public/workflow-files/comwhatsmyipshawnpatrickrice/screenshots/ipaddress.png" width="300px" />
 - [Tunnelblick Toggle](http://www.packal.org/workflow/tunnelblick-toggle) checks and toggles the status of Tunnelblick connections:
 
   > `vpn`
 
-  > <img src="http://www.packal.org/sites/default/files/public/workflow-files/comshau-kotealfredtunnelblick-toggle/screenshots/packal-demo.gif" width="300" />
+  > <img src="http://www.packal.org/sites/default/files/public/workflow-files/comshau-kotealfredtunnelblick-toggle/screenshots/packal-demo.gif" width="300px" />
 
 ## Fun
 
@@ -83,7 +88,7 @@ This is being written by the guidelines from [awesome](https://github.com/sindre
 
   > `kz`
 
-  > <img src="https://github.com/kyungw00k/alfred-kozip-workflow/raw/master/screenshot/alfred-kozip-usage-cover.gif" width="300" />
+  > <img src="https://github.com/kyungw00k/alfred-kozip-workflow/raw/master/screenshot/alfred-kozip-usage-cover.gif" width="300px" />
 
 ## Best other sources
 
