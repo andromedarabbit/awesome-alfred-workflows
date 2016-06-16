@@ -100,3 +100,10 @@
 - [Official Forum](http://www.alfredforum.com/) has the vast amount of workflows.
 - [Official Website](https://www.alfredapp.com/workflows/) curated the best one from its official forum.
 - [Packal](http://packal.org/) is a user-created repository, which provides workflows with quality.
+
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Jaehoon Choi](https://andromedarabbit.net) has waived all copyright and related or neighboring rights to this work.
