@@ -1,8 +1,13 @@
 # Awesome Alfred Workflows [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated collection of awesome Alfred 3 workflows and snippets
+> A curated collection of awesome Alfred 3 workflows and snippets
 
-This is being written by the guidelines from [awesome](https://github.com/sindresorhus/awesome). However, there might be some misguided contents even with our best effort since we are new in this **Awesome** movement and still learning.
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.*
+
+*This is being written by the guidelines from [awesome](https://github.com/sindresorhus/awesome). However, there might be some misguided contents even with our best effort since we are new in this **Awesome** movement and still learning.*
+
+*Please read the [contribution guidelines](contributing.md) before contributing.*
+
 
 ## Table of Contents
 
