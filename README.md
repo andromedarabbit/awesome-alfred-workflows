@@ -27,13 +27,19 @@
 
   > `,b`
 
-  > <img src="http://www.packal.org/sites/default/files/public/workflow-files/comchromebookmarks/screenshots/screenshot_0.png" width="300px" />
+  > <img src="https://github.com/blainesch/alfred-chrome-bookmarks/raw/master/screenshot.png" width="300px" />
 
 - [Shorten URL](https://github.com/hzlzh/Alfred-Workflows) supports several URL shorteners, for instance, `goo.gl/`, `bit.ly/`, `t.cn/`, `git.io/` and more.
 
   > `short`
 
   > <img src="https://github.com/hzlzh/Alfred-Workflows/raw/master/Downloads/extra/Shorten-URL-trigger.png" width="300px" />
+
+- [TemporaryEmail](https://github.com/vitorgalvao) help you create temporary email inboxes via [Teleosaurs Mail](http://teleosaurs.xyz/).
+
+  > `tmp`
+
+  > <img src="https://camo.githubusercontent.com/2c71db6c2a676eccf579f1951d421ee1b6e9b932/687474703a2f2f692e696d6775722e636f6d2f7a33324947486c2e676966" width="300px" />
 
 ## Finder
 
