@@ -51,6 +51,12 @@
 
 ## Development
 
+- [tldr-alfred](https://github.com/cs1707/tldr-alfred). [tldr](https://github.com/tldr-pages/tldr) is an collection of simplified and community-driven man pages:
+
+  > `tldr`
+
+  > ![](https://github.com/cs1707/tldr-alfred/raw/master/screenshot.gif)
+
 - [Gist](http://www.packal.org/workflow/gist) accesses [GitHub Gists](https://gist.github.com) as snippets. Supports tags, stars, and private gists:
 
   > `gg`
